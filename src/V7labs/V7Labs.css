@@ -62,7 +62,7 @@ h1{
     line-height: 19px;
 }
 .btn h5{
-    background-color: blue;
+    background-color: rgb(62, 62, 165);
     color: white;
     width: 150px ;
     height: 35px;
@@ -92,7 +92,7 @@ h1{
 }
 
 .line-two{
-    color: skyblue;
+    color: red;
    animation-name: textAnimation;
    animation-duration: 0.25s;
    animation-iteration-count: infinite;
